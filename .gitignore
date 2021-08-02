@@ -1,0 +1,7 @@
+.vagrant/**
+config/**
+
+# ignore everything in share folder
+share/**
+!share/.keep
+!share/*.sh
